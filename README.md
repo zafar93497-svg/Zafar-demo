@@ -1,2 +1,2 @@
 # Zafar-demo
-Authur zafarullah
+Author zafarullah
